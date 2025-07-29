@@ -1,14 +1,77 @@
-Declares html file. 
-Sets the language to English.
-Set meta charset="UTF-8" ensures a wide range of secure (encryption).
-Sets title as DJCyber in the browser tab.
-Link the stylesheet style.css for styling or designing page.
-Start to create a body part of website.
-Displays a logo with styles.css
-Create a navigation menu with links to other pages.
-Upload an inmage that used to describe the themes.
-Displays contact detials such as location, phone numbers and social media to contact.
-Two clickable icons that opens in new tabs (target="_blank")
-Icons are images sized to 20px width.
-Displays a copyright by use the HTML entity &copy; to display the symbol the © symbol.
-This is well-structured basic html page with minor html tag and adding style for website to help improving it visual representation.
+# DJCyber Website
+
+This repository contains the source code for the **DJCyber** website — a simple multipage HTML-based site including a contact page, navigation, social media links, and a footer.
+
+## Project Overview
+
+**DJCyber** is a basic static website project made using HTML and CSS. The project includes pages like:
+
+- Home
+- About Us
+- Sign In
+- Sign Up
+- Contact Us
+
+This repository includes:
+- HTML structure for each page
+- External stylesheet (`style.css`)
+- Image assets for design and social media icons
+
+## File Structure
+
+DJCyber/
+1. index.html # Home page
+2. about.html # About Us page
+3. signin.html # Sign In page
+4. signup.html # Sign Up page
+5. contact.html # Contact Us page (this file)
+6. style.css # CSS for styling
+7. 2.jpg # Header image
+8. 3.jpg # WhatsApp icon
+9. 4.png # Instagram icon
+
+
+
+## Features
+
+- Clean and simple navigation bar
+- Responsive header with an image
+- Contact information and social media links
+- Footer with copyright
+
+---
+
+## Preview
+
+> ![Header Image](2.jpg)
+> _Sample header image used on the contact page_
+
+---
+
+## How to Use
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/your-username/DJCyber.git
+cd DJCyber
+Open any .html file in your browser, preferably starting with index.html.
+
+Make sure the image files (2.jpg, 3.jpg, 4.png) and style.css are in the same directory.
+
+🛠 Technologies Used
+HTML5
+
+CSS3
+
+📬 Contact
+📍 Location: New Delhi
+📞 Telephone: 435786
+📱 Mobile: +91 8220769519
+
+Follow us on:
+WhatsApp | Instagram
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
